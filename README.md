@@ -1,7 +1,7 @@
 <!--
  * @Author: ykx
  * @Date: 2021-04-23 18:19:00
- * @LastEditTime: 2021-04-23 18:46:10
+ * @LastEditTime: 2021-04-23 19:03:33
  * @LastEditors: your name
  * @Description: 说明.md
  * @FilePath: \form-design\README.md
@@ -19,7 +19,7 @@
 基于 [vue](https://github.com/vuejs/vue) 和 [ant-design-vue](https://www.antdv.com/docs/vue/introduce-cn/) 实现的表单可视化编辑。
 
 ### 设计
-本项目拆分为form-design与form-build，前者用于表单设计编辑(包含生成代码模式 & json解析模式)，后者为单独json解析(可安装独立的npm包，可进行单独使用)。
+本项目拆分为form-design与form-build，前者用于表单设计编辑(包含生成代码模式 & json解析模式)，后者为单独json解析(可安装独立的npm包y-form-build,(包名相同太多...)，可进行单独使用)。
 
 ### 使用场景
 初版用于基础表单设计,提供代码编辑，json解析，用于快速构建antd的表单

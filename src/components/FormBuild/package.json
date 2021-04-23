@@ -1,5 +1,5 @@
 {
-  "name": "form-build",
+  "name": "y-form-build",
   "version": "0.1.0",
   "description": "form-design 解析器",
   "main": "lib/form-build.umd.min.js",
