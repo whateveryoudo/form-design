@@ -1,0 +1,7 @@
+# 忽略目录
+src/
+useInfoHtml/
+# 忽略具体文件
+vue.config.js
+babel.config.js
+*.map

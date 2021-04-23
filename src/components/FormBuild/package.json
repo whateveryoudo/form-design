@@ -1,0 +1,19 @@
+{
+  "name": "zd-form-build",
+  "version": "0.1.0",
+  "description": "zd-form-design 解析器",
+  "main": "lib/form-build.umd.min.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "表单解析器",
+    "form-build",
+    "form-design"
+  ],
+  "author": "whateveryoudo & Auxure",
+  "license": "ISC"
+}

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>表单解析器</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="../src/components/FormBuild/lib/zd-form-build.css" />
+  </head>
+
+  <body>
+    <div class="app">
+      <zd-form-build ref="formBuildElem" :widget-form-data="widgetFormData"></zd-form-build>
+      <button @click="getData">提交</button>
+    </div>
+    <script src="http://cdn.kcz66.com/vue.min.js"></script>
+    <script src="../src/components/FormBuild/lib/zd-form-build.umd.min.js"></script>
+    <script>
+      const defaultFormConfigCols = {
+        labelCol: { span: 4 },
+        wrapperCol: { span: 18 },
+      };
+      let vm = new Vue({
+        el: ".app",
+        data: {
+          widgetFormData: {
+            fields: [
+              {
+                type: "Input",
+                title: "普通输入框",
+                model: "name",
+                options: {
+                  label: "普通输入框",
+                  width: "100%",
+                  defaultValue: "",
+                  allowClear: true,
+                  dataType: "string",
+                  placeholder: "请输入",
+                  disabled: false,
+                  required: true,
+                  requiredMsg: "",
+                },
+                rules: [],
+                key: "2xsjf11zoje000",
+              },
+            ],
+            // 表单整体属性
+            formConfig: {
+              width: "100%",
+              labelAlign: "right",
+              size: "default",
+              formModel: "formData",
+              formRef: "antdForm",
+              separator: "~",
+              colon: true, // 表示是否显示 label 后面的冒号
+              ...defaultFormConfigCols,
+              layout: "horizontal", // 表单布局 'horizontal'|'vertical'|'inline'
+            },
+          },
+        },
+        methods: {
+          getData() {
+            // 通过函数获取数据
+            this.$refs.formBuildElem
+              .getData()
+              .then((res) => {
+                // 获取数据成功
+                alert(JSON.stringify(res));
+              })
+              .catch((err) => {
+                console.log(err, "校验失败");
+              });
+          },
+        },
+      });
+    </script>
+  </body>
+</html>
