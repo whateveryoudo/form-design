@@ -3,7 +3,7 @@
  * @Github: https://github.com/Anxure
  * @Date: 2021-03-08 17:14:31
  * @LastEditors: your name
- * @LastEditTime: 2021-04-23 16:42:07
+ * @LastEditTime: 2021-04-23 18:39:52
 -->
 <template>
   <a-layout>
@@ -169,7 +169,7 @@ const defaultFormConfigCols = {
   wrapperCol: { span: 18 },
 };
 export default {
-  name: 'ZdFormDesign',
+  name: 'FormDesign',
   props: {
     projetName: {
       type: String,

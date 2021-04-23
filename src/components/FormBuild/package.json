@@ -1,7 +1,7 @@
 {
   "name": "zd-form-build",
   "version": "0.1.0",
-  "description": "zd-form-design 解析器",
+  "description": "form-design 解析器",
   "main": "lib/form-build.umd.min.js",
   "directories": {
     "example": "example"

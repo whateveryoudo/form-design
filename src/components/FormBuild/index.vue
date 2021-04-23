@@ -27,7 +27,7 @@ import zhCN from 'ant-design-vue/lib/locale-provider/zh_CN';
 import PreviewFormItem from './PreviewFormItem';
 import { layoutTypes } from '../FormDesign/configData/comsList'; // 添加组件类型判断
 export default {
-  name: 'ZdFormBuild',
+  name: 'FormBuild',
   props: {
     widgetFormData: {
       type: Object,

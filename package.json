@@ -1,5 +1,5 @@
 {
-  "name": "zd-form-design",
+  "name": "form-design",
   "version": "0.1.0",
   "private": false,
   "description": "基于vue、ant-design-vue的表单设计器,可视化开发表单",
@@ -19,7 +19,7 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "lib:build": "vue-cli-service build --target lib --name zd-form-build --dest ./src/components/FormBuild/lib/  ./src/components/FormBuild/build.js",
-    "lib:design": "vue-cli-service build --target lib --name zd-form-design --dest lib ./src/components/FormDesign/build.js"
+    "lib:design": "vue-cli-service build --target lib --name form-design --dest lib ./src/components/FormDesign/build.js"
   },
   "dependencies": {
     "@babel/parser": "^7.12.13",

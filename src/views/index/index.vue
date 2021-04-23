@@ -1,6 +1,6 @@
 <template>
   <div>
-      <zd-form-design></zd-form-design>
+      <form-design></form-design>
   </div>
 </template>
 

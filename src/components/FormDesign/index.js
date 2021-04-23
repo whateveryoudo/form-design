@@ -1,6 +1,6 @@
-import ZdFormBuild from '../FormBuild/index.vue'
-import ZdFormDesign from './Container.vue'
-const components = [ZdFormDesign, ZdFormBuild]
+import FormBuild from '../FormBuild/index.vue'
+import FormDesign from './Container.vue'
+const components = [FormDesign, FormBuild]
 const install = Vue => {
   if (install.installed) return;
   components.forEach(component => {
@@ -12,7 +12,7 @@ if (typeof window !== 'undefined' && window.Vue) {
   install(window.Vue);
 }
 export {
-  ZdFormBuild
+  FormBuild
 }
 export default {
   install
