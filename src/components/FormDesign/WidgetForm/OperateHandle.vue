@@ -4,7 +4,7 @@
  * @LastEditTime: 2020-12-17 19:33:10
  * @LastEditors: your name
  * @Description: 单项字段的操作组件(注意阻止icon冒泡)
- * @FilePath: \zdww-form-design\src\components\FormDesign\WidgetForm\OperateHandle.vue
+ * @FilePath: \form-design\src\components\FormDesign\WidgetForm\OperateHandle.vue
 -->
 <template>
   <!-- 操作框 -->

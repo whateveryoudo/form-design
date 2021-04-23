@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-13 17:39:23
  * @LastEditors: your name
  * @Description: 控件渲染公共属性&方法集合
- * @FilePath: \zdww-form-design\src\components\FormDesign\FormFieldComs\commonFieldMixins.js
+ * @FilePath: \form-design\src\components\FormDesign\FormFieldComs\commonFieldMixins.js
  */
 import omit from 'lodash/omit';
 export default {

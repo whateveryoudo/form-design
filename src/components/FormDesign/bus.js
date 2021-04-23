@@ -4,7 +4,7 @@
  * @LastEditTime: 2020-12-16 11:30:05
  * @LastEditors: your name
  * @Description:组件通信处理
- * @FilePath: \zdww-form-design\src\components\FormDesign\bus.js
+ * @FilePath: \form-design\src\components\FormDesign\bus.js
  */
 import Vue from 'vue'
 const bus = new Vue()

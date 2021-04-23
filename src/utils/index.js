@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-23 10:57:28
  * @LastEditors: your name
  * @Description:部分工具方法 & form编辑区部分操作方法
- * @FilePath: \zdww-form-design\src\utils\index.js
+ * @FilePath: \form-design\src\utils\index.js
  */
 // 参考：https://github.com/beautify-web/js-beautify 编辑器代码美化
 export const beautifierConf = {

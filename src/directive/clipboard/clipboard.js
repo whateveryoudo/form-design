@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-06 09:45:09
  * @LastEditors: Anxure
  * @Description: 复制 | 剪切 自定义指令
- * @FilePath: \zdww-form-design\src\directive\clipboard\clipboard.js
+ * @FilePath: \form-design\src\directive\clipboard\clipboard.js
  */
 
 // 自定义指令 v-clipboard （: copy=需要复制的信息 cut 粘贴的信息（cut只在input  textarea生效） success 操作成功的回调 error 操作失败的回调）

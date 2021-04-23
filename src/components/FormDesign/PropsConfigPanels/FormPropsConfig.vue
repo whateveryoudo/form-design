@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-03-05 12:05:56
  * @LastEditors: your name
  * @Description: 表单基础属性配置面板(这里采用了对象引用修改props，最好采用组件通信方式处理)
- * @FilePath: \zdww-form-design\src\components\FormDesign\PropsConfigPanels\FormPropsConfig.vue
+ * @FilePath: \form-design\src\components\FormDesign\PropsConfigPanels\FormPropsConfig.vue
 -->
 <template>
   <a-form-model>

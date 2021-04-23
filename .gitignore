@@ -3,6 +3,7 @@ node_modules
 /dist
 .history
 /lib
+/src/components/FormBuild/lib
 # local env files
 .env.local
 .env.*.local

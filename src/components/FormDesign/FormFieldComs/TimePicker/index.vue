@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-13 16:46:07
  * @LastEditors: your name
  * @Description: 时间选择
- * @FilePath: \zdww-form-design\src\components\FormDesign\FormFieldComs\TimePicker\index.vue
+ * @FilePath: \form-design\src\components\FormDesign\FormFieldComs\TimePicker\index.vue
 -->
 <template>
   <div>

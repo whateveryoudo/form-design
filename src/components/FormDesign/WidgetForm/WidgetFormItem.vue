@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-13 19:28:41
  * @LastEditors: your name
  * @Description: 单项表单字段渲染(注：layout递归调用，由于子组件无法调用父组件，这里采用slot-scope 递归调用自身，formConfig,selectedField无需回传)
- * @FilePath: \zdww-form-design\src\components\FormDesign\WidgetForm\WidgetFormItem.vue
+ * @FilePath: \form-design\src\components\FormDesign\WidgetForm\WidgetFormItem.vue
 -->
 <template>
   <div @click.stop="selectItem">

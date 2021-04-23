@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-21 11:35:19
  * @LastEditors: your name
  * @Description: 公共添加校验规则部分（这里提供3种规则，必填）
- * @FilePath: \zdww-form-design\src\components\FormDesign\PropsConfigPanels\ValidateItemRules.vue
+ * @FilePath: \form-design\src\components\FormDesign\PropsConfigPanels\ValidateItemRules.vue
 -->
 <template>
   <div>

@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-12 11:18:23
  * @LastEditors: your name
  * @Description: 首页操作弹框统一导出
- * @FilePath: \zdww-form-design\src\components\FormDesign\navModals\index.js
+ * @FilePath: \form-design\src\components\FormDesign\navModals\index.js
  */
 import PreviewConfirm from './PreviewConfirm'
 import ImportJsonModal from './ImportJsonModal'

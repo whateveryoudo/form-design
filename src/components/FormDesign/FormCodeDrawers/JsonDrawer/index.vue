@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-02-23 18:22:16
  * @LastEditors: your name
  * @Description: json查看
- * @FilePath: \zdww-form-design\src\components\FormDesign\FormCodeDrawers\JsonDrawer\index.vue
+ * @FilePath: \form-design\src\components\FormDesign\FormCodeDrawers\JsonDrawer\index.vue
 -->
 <template>
   <a-drawer

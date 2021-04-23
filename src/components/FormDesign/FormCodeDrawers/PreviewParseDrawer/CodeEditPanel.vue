@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-16 17:11:23
  * @LastEditors: your name
  * @Description: 解析预览
- * @FilePath: \zdww-form-design\src\components\FormDesign\FormCodeDrawers\PreviewParseDrawer\CodeEditPanel.vue
+ * @FilePath: \form-design\src\components\FormDesign\FormCodeDrawers\PreviewParseDrawer\CodeEditPanel.vue
 -->
 <template>
   <div class="code-edit-container">

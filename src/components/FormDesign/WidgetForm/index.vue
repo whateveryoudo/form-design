@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-12 17:46:10
  * @LastEditors: your name
  * @Description: 主体界面(注：指定handle 就能分组拖拽，nested-draggable ？？)
- * @FilePath: \zdww-form-design\src\components\FormDesign\WidgetForm\index.vue
+ * @FilePath: \form-design\src\components\FormDesign\WidgetForm\index.vue
 -->
 <template>
   <div :class="['form-widget-body', list.length == 0 && 'empty']">

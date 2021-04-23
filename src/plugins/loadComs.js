@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-03-04 16:29:52
  * @LastEditors: your name
  * @Description: 按需加载ant-design-vue组件
- * @FilePath: \zdww-form-design\src\plugins\loadComs.js
+ * @FilePath: \form-design\src\plugins\loadComs.js
  */
 import Vue from 'vue'
 import {

@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-16 17:21:23
  * @LastEditors: your name
  * @Description: 预览界面查看（包含代码编辑，界面查看）
- * @FilePath: \zdww-form-design\src\components\FormDesign\FormCodeDrawers\PreviewParseDrawer\index.vue
+ * @FilePath: \form-design\src\components\FormDesign\FormCodeDrawers\PreviewParseDrawer\index.vue
 -->
 <template>
   <a-drawer

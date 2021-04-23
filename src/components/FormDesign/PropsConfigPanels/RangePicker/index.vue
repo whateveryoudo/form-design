@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-03-05 12:03:12
  * @LastEditors: your name
  * @Description: 日期范围属性设置
- * @FilePath: \zdww-form-design\src\components\FormDesign\PropsConfigPanels\RangePicker\index.vue
+ * @FilePath: \form-design\src\components\FormDesign\PropsConfigPanels\RangePicker\index.vue
 -->
 
 <template>

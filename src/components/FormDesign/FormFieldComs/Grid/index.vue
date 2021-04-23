@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-01 18:01:22
  * @LastEditors: your name
  * @Description: 栅格组件渲染
- * @FilePath: \zdww-form-design\src\components\FormDesign\FormFieldComs\Grid\index.vue
+ * @FilePath: \form-design\src\components\FormDesign\FormFieldComs\Grid\index.vue
 -->
 <template>
   <div class="grid-box">

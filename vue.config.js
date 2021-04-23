@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-21 10:39:55
  * @LastEditors: your name
  * @Description: webpack配置
- * @FilePath: \zdww-form-design\vue.config.js
+ * @FilePath: \form-design\vue.config.js
  */
 const IS_PRODUCTION = process.env.NODE_ENV === 'production'
 const MonacoWebpackPlugin = require('monaco-editor-webpack-plugin')

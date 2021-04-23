@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-15 15:00:56
  * @LastEditors: your name
  * @Description: 入口文件
- * @FilePath: \zdww-form-design\src\App.vue
+ * @FilePath: \form-design\src\App.vue
 -->
 <template>
   <a-config-provider :locale="locale">

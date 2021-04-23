@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-23 14:52:41
  * @LastEditors: your name
  * @Description: js代码编译
- * @FilePath: \zdww-form-design\src\components\FormDesign\coreCompile\compileJs.js
+ * @FilePath: \form-design\src\components\FormDesign\coreCompile\compileJs.js
  */
 import { layoutTypes, needOptionsFields } from '../configData/comsList';
 export default class CompileJs {

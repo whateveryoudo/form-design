@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-14 15:37:47
  * @LastEditors: your name
  * @Description: 使用示例
- * @FilePath: \zdww-form-design\src\components\FormBuild\example\index.vue
+ * @FilePath: \form-design\src\components\FormBuild\example\index.vue
 -->
 <template>
   <div>

@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-13 10:37:01
  * @LastEditors: your name
  * @Description: 导出文件确认
- * @FilePath: \zdww-form-design\src\components\FormDesign\FormCodeDrawers\ExportPrompt.vue
+ * @FilePath: \form-design\src\components\FormDesign\FormCodeDrawers\ExportPrompt.vue
 -->
 <template>
   <a-modal

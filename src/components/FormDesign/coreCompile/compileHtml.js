@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-23 17:03:41
  * @LastEditors: your name
  * @Description: html代码编译
- * @FilePath: \zdww-form-design\src\components\FormDesign\coreCompile\compileHtml.js
+ * @FilePath: \form-design\src\components\FormDesign\coreCompile\compileHtml.js
  */
 import { layoutTypes } from '../configData/comsList';
 // 导出vue文件时，拼接标签方法

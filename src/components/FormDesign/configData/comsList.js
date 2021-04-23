@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-23 14:36:37
  * @LastEditors: your name
  * @Description: 统一导出部分配置项
- * @FilePath: \zdww-form-design\src\components\FormDesign\configData\comsList.js
+ * @FilePath: \form-design\src\components\FormDesign\configData\comsList.js
  */
 // 组件类型 layoutFields-布局类型组件， formItemFields - 表单控件  normalFields - 其余组件
 export const layoutTypes = {

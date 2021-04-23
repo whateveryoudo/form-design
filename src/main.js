@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-21 10:12:10
  * @LastEditors: your name
  * @Description: 
- * @FilePath: \zdww-form-design\src\main.js
+ * @FilePath: \form-design\src\main.js
  */
 import Vue from 'vue'
 import App from './App.vue'

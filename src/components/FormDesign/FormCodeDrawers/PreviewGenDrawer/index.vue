@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-12 15:50:53
  * @LastEditors: your name
  * @Description: 预览界面查看（包含代码编辑，界面查看）
- * @FilePath: \zdww-form-design\src\components\FormDesign\FormCodeDrawers\PreviewGenDrawer\index.vue
+ * @FilePath: \form-design\src\components\FormDesign\FormCodeDrawers\PreviewGenDrawer\index.vue
 -->
 <template>
   <a-drawer class="no-padding" :mask="false" :width="drawerWidth" :visible="visible" :closable="false" @close="onClose">

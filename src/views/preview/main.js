@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-03-05 10:21:31
  * @LastEditors: your name
  * @Description: 预览界面入口
- * @FilePath: \zdww-form-design\src\views\preview\main.js
+ * @FilePath: \form-design\src\views\preview\main.js
  */
 import Vue from 'vue'
 import '@/plugins/loadComs'

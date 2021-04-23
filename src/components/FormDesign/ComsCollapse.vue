@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-14 10:04:16
  * @LastEditors: your name
  * @Description: 左侧操作树组件(修改为平铺实现)
- * @FilePath: \zdww-form-design\src\components\FormDesign\ComsCollapse.vue
+ * @FilePath: \form-design\src\components\FormDesign\ComsCollapse.vue
 -->
 
 <template>

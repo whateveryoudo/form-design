@@ -8,7 +8,7 @@
   "keywords": [
     "ant-design",
     "form-build",
-    "zdww-form-design",
+    "form-design",
     "form-generator",
     "表单设计器",
     "表单设计",
@@ -18,7 +18,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "lib:build": "vue-cli-service build --target lib --name zd-form-build --dest ./src/components/FormBuild/lib/  ./src/components/FormBuild/build.js",
+    "lib:build": "vue-cli-service build --target lib --name form-build --dest ./src/components/FormBuild/lib/  ./src/components/FormBuild/build.js",
     "lib:design": "vue-cli-service build --target lib --name form-design --dest lib ./src/components/FormDesign/build.js"
   },
   "dependencies": {

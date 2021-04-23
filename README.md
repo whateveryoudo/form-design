@@ -1,7 +1,7 @@
 <!--
  * @Author: ykx
  * @Date: 2021-04-23 18:19:00
- * @LastEditTime: 2021-04-23 18:37:26
+ * @LastEditTime: 2021-04-23 18:46:10
  * @LastEditors: your name
  * @Description: 说明.md
  * @FilePath: \form-design\README.md
@@ -28,6 +28,9 @@
 [文档完善中...]
 
 ### 未来
-1.后续组件的完善开发（uploda,card-form,tabs,table,editor）。2.字典接入远程接口数据 3.多种布局 & 字段联动（自定义事件） 3.docs编写 4. 针对具体项目定制不同UI组件（物料开发），模板支持。
+1.后续组件的完善开发（uploda,card-form,tabs,table,editor）。
+2.字典接入远程接口数据 3.多种布局 & 字段联动（自定义事件）。
+3.docs编写。
+4.针对具体项目定制不同UI组件（物料开发），模板支持。
 
 注：感谢[k-form-design](https://github.com/Kchengz/k-form-design) 与 [form-generator](https://github.com/JakHuang/form-generator) 提供的思路参考。

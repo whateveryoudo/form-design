@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-12 11:45:48
  * @LastEditors: your name
  * @Description: 预览二次确认
- * @FilePath: \zdww-form-design\src\components\FormDesign\navModals\PreviewConfirm.vue
+ * @FilePath: \form-design\src\components\FormDesign\navModals\PreviewConfirm.vue
 -->
 <template>
   <a-modal

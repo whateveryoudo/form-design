@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-13 17:11:38
  * @LastEditors: your name
  * @Description: 存放用于使用的单项组件(通用拖拽区 & 解析预览，通用逻辑于commonFiledMixins中处理(picker在单独组件内处理))
- * @FilePath: \zdww-form-design\src\components\FormDesign\FormFieldComs\index.js
+ * @FilePath: \form-design\src\components\FormDesign\FormFieldComs\index.js
  */
 import Input from './Input'
 import Grid from './Grid'

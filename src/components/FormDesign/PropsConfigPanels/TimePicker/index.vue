@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-03-05 12:03:24
  * @LastEditors: your name
  * @Description: 时间选择属性控制
- * @FilePath: \zdww-form-design\src\components\FormDesign\PropsConfigPanels\TimePicker\index.vue
+ * @FilePath: \form-design\src\components\FormDesign\PropsConfigPanels\TimePicker\index.vue
 -->
 
 <template>

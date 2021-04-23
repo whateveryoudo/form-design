@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-12 11:11:53
  * @LastEditors: your name
  * @Description: json导入
- * @FilePath: \zdww-form-design\src\components\FormDesign\navModals\ImportJsonModal.vue
+ * @FilePath: \form-design\src\components\FormDesign\navModals\ImportJsonModal.vue
 -->
 <template>
   <a-modal

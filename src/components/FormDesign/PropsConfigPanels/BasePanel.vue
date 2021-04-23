@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-09 09:53:41
  * @LastEditors: your name
  * @Description: 基础容器组件
- * @FilePath: \zdww-form-design\src\components\FormDesign\PropsConfigPanels\BasePanel.vue
+ * @FilePath: \form-design\src\components\FormDesign\PropsConfigPanels\BasePanel.vue
 -->
 <template>
   <div class="props-panel-container compact-mode">

@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-04-22 11:56:47
  * @LastEditors: your name
  * @Description: 组件预览
- * @FilePath: \zdww-form-design\src\components\FormDesign\FormCodeDrawers\PreviewGenDrawer\FormPreviewPanel.vue
+ * @FilePath: \form-design\src\components\FormDesign\FormCodeDrawers\PreviewGenDrawer\FormPreviewPanel.vue
 -->
 <template>
   <div class="preview-panel">

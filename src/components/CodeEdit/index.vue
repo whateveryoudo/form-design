@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-03-05 10:23:34
  * @LastEditors: your name
  * @Description: 代码编辑器(需要设置overflow:hidden,否则会出现滚动？？)
- * @FilePath: \zdww-form-design\src\components\CodeEdit\index.vue
+ * @FilePath: \form-design\src\components\CodeEdit\index.vue
 -->
 <template>
   <div

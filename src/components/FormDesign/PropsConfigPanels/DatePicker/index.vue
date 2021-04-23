@@ -4,7 +4,7 @@
  * @LastEditTime: 2021-03-05 12:02:57
  * @LastEditors: your name
  * @Description: 日期选择
- * @FilePath: \zdww-form-design\src\components\FormDesign\PropsConfigPanels\DatePicker\index.vue
+ * @FilePath: \form-design\src\components\FormDesign\PropsConfigPanels\DatePicker\index.vue
 -->
 
 <template>
